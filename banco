@@ -59,4 +59,5 @@ while True:
          print("----------------------")
          
      if opcao == "4":
+         print("\nOperação encerrada\n")
          break
